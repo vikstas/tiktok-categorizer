@@ -31,3 +31,8 @@ jobs:
         env:
           TIKTOK_REQUIRE_BROWSER_TESTS: "1"
         run: xvfb-run -a pytest -q -rs
+
+      - name: Run credit repair agent tests
+        run: |
+          python -m pip install "python-docx>=1.1,<2"
+          python -m pytest -q credit-repair/tests

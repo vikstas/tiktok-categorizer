@@ -1,0 +1,33 @@
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+HIPAA Compliance Office
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+Dear Sir/Madam;
+
+This letter concerns {{account_number}} for services provided to {{patient_name}} on {{date_of_service}}.
+
+Please be advised that under federal statutes, including the Fair Credit Reporting Act (15 U.S.C. § 1681 et seq), {{state}}'s Consumer Credit Statutes, and Subtitle D of the American Recovery and Reinvestment Act (ARRA), specifically SEC. 13401 and SEC. 13407(1), there are protections concerning the security and privacy of protected health information (PHI). A "breach of security" refers to the unauthorized acquisition of unsecured PHR identifiable health information of an individual.
+
+It appears that the furnishing of my account information to {{collection_agency_name}} may not be in compliance with these regulations. The Omnibus Final Rule, effective September 23, 2013, and the Health Information Technology for Economic and Clinical Health Act of 2009 (HITECH Act), issued November 30, 2009, impose strict requirements on the handling of PHI.
+
+Under HIPAA and {{state}}'s Medical Privacy Statutes, the use or disclosure of PHI without specific authorization from the individual or as otherwise permitted under the Privacy Rules is prohibited. This includes information related to an individual's health condition, care, or payment for care.
+
+Your sharing of my account information with {{collection_agency_name}} and any subsequent reporting to credit reporting agencies ({{credit_bureaus}}) may constitute a violation of these privacy protections.
+
+I request that you promptly rescind all such account information furnished to {{collection_agency_name}} and require them to purge their records of any references to this account. Additionally, ensure that any reporting of this account is immediately deleted from my credit reports.
+
+{{charitable_hospital_line}}
+
+Please respond in writing within 10 days acknowledging that you are processing this request. I reserve the right to take appropriate legal and civil action, including reporting to regulatory authorities, if there is any lack of cooperation or compliance with this request.
+
+For the purpose of this request, I hereby waive my rights under HIPAA and any State Privacy Act for the sole purpose of your transmission of this request and accompanying documentation in any report you must make to your Errors & Omissions (E&O) insurance carrier.
+
+Sincerely,
+
+{{your_name}}

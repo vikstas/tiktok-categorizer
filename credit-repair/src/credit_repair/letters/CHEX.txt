@@ -1,0 +1,19 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+RE: SSN {{full_ssn}}
+
+Date: {{date}}
+
+To Whom It May Concern:
+
+My bank has informed me that there is negative information reported by {{bank_name}} included in the file ChexSystems maintains under my Social Security Number. Upon ordering a copy of the report, I see an entry from this bank listing {{chex_reason_and_date}}. Please validate this information with {{bank_name}} and provide me with copies of any documentation associated with {{chex_reason}}. In the absence of any such documentation bearing my signature, I ask that this information be immediately deleted from the file you maintain under my Social Security Number.
+
+Sincerely,
+
+
+(signature)
+{{your_name}}

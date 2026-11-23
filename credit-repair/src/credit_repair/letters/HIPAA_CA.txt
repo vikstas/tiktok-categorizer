@@ -1,0 +1,35 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+Re: Acct # {{account_number}}
+
+To Whom It May Concern:
+
+This letter is being sent in response to your recent communication regarding the above-referenced account. This is not a refusal to pay but a notice that your claim is disputed.
+
+Under the Fair Debt Collection Practices Act (FDCPA), I have the right to request validation of the debt you claim I owe. I am requesting proof that:
+1. I am indeed the party responsible for this debt.
+2. The date of the alleged medical service.
+3. The name of the patient.
+4. There is a contractual obligation binding me to pay this debt.
+
+Please provide copies of:
+
+Any agreement with your client authorizing you to collect this debt, or proof of acquisition by purchase or assignment, including authorization under subtitle D of the ARRA, SEC. 13401, and SEC. 13407(1) regarding "breach of security" concerning unsecured PHR identifiable health information.
+
+Any agreement bearing the signature of the alleged debtor wherein they agreed to pay the creditor. Since this is a medical account, include a copy of any HIPAA authorization allowing the disclosure of medical information.
+
+Furthermore, this letter serves as a formal dispute and a request for you to cease and desist any collection activities, including reporting or verifying this account on my credit reports. I require compliance with the terms and conditions of this letter within 30 days or a complete withdrawal, in writing, of any claim.
+
+Please be aware that noncompliance may result in the filing of charges and/or complaints with the Office for Civil Rights (OCR) for HIPAA violations, as well as appropriate county, state, and federal authorities. This includes the Consumer Financial Protection Bureau (CFPB), Better Business Bureau (BBB), and state bar associations for violations of the FDCPA, Fair Credit Reporting Act (FCRA), and any state statutes regarding illegal collection activities on potentially time-barred accounts.
+
+I also reserve the right to take private civil action against you to recover damages.
+
+Sincerely,
+
+{{your_name}}

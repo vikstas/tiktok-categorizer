@@ -1,0 +1,36 @@
+{{date}}
+
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+Re: Acct # {{account_number}}
+
+To Whom It May Concern:
+
+On {{original_letter_date}}, I wrote to you requesting validation and an investigation into items that I believed were inaccurate. To date, I have not received any such validation. The only reply from you was a letter from {{original_creditor_name}} dated {{original_creditor_letter_date}}. In my previous request directly to you, I listed my reasons for disputing the information and requested validation.
+
+Since this is my second request, I will also be sending a copy of this letter to the Federal Trade Commission notifying them that I have signed receipts for letters sent to you and you have not complied with my request. I regret that I am being forced to take such action.
+
+Please note that on 3/20/2019 the CFPB released its Fair Debt Collection Practices Act Annual Report and it stated the following:
+
+"The Bureau notes that one or more debt collectors continued collection activity despite not properly obtaining and mailing debt verification after a consumer exercised his or her 1692g rights. Specifically, the Bureau calls out the practice where "debt collectors forwarded consumer debt validation requests to the relevant clients, who mailed responses directly to the consumers.
+
+Section 809(b) of the FDCPA requires a debt collector, upon receipt of a written debt validation request from a consumer, to cease collection of the debt until IT (meaning the collection agency) obtains verification of the debt and mails it to the consumer.
+
+Examinations found that one or more debt collectors routinely failed to mail debt verifications before engaging in further collections activities.
+
+Instead, one or more debt collectors forwarded consumer debt validation requests to the relevant clients, who mailed responses directly to consumers and the debt collectors then continued collection activities on accounts in violation of section 809(b) of the FDCPA."
+
+Failure on your behalf to provide a copy of any alleged contract or other instrument bearing my signature may result in a small claims action against your company. Therefore, either provide the requested information or cease your collection efforts and reporting of this account on my credit reports immediately.
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+P.S. If needed, I will also provide a copy of this letter to the organizations below:
+CC: Consumer Financial Protection Bureau
+CC: Attorney General's Office
+CC: Better Business Bureau

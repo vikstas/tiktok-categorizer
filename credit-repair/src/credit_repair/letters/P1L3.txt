@@ -1,0 +1,44 @@
+{{date}}
+
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+Re: Acct # {{account_number}}
+
+To Whom It May Concern:
+
+Upon further investigation, I have retained new copies of my credit reports, and noticed that you did not furnish the credit bureaus with the required disclosure, within the period required by law. You are required by federal law to place a "notice of dispute" on my account within 30 days of my dispute, which you signed for on {{p1l1_received_date}}. I have retained a copy of your signature and date of receipt, as well as a time-stamped copy of my credit reports, showing that you have violated the Fair Credit Reporting Act, Section 623(a)(3) and/or the Fair Debt Collection Practices Act Section 807(8) by not placing the disclosure within the required 30-day period.
+
+Be aware that I am making a final goodwill attempt to have you clear up this matter. The listed item is entirely inaccurate and incomplete, and represents a very serious error in your reporting.
+
+I am maintaining a careful record of my communications with you for the purpose of filing a complaint with the Consumer Financial Protection Bureau and the Attorney General's office, should you continue in your non-compliance of federal laws under the Fair Credit Reporting Act.
+
+I further remind you that you may be liable for your willful non-compliance, as per FCRA 623(a)(3) - Responsibilities of furnishers of information to consumer reporting agencies [15 U.S.C. 1681s-2]
+
+(3) Duty to provide notice of dispute. If the completeness or accuracy of any information furnished by any person to any consumer reporting agency is disputed to such person by a consumer, the person may not furnish the information to any consumer reporting agency without notice that such information is disputed by the consumer.
+
+(B) Time of Notice (I) The notice required under subparagraph (A) shall be provided to the customer prior to, or no later than 30 days after, furnishing the negative information to a consumer reporting agency described in section 603(p).
+
+As you have violated federal law, by not properly providing the credit bureaus with proper notice within the required timeframe, and I have evidence of such, via certified mail receipts, you must now remove the item. Any other action (or inaction) on your behalf may result in a small claims action against your company.
+
+I would be seeking a minimum of $1,000 in damages per violation for:
+- Defamation
+- Negligent Enablement of Identity Fraud
+- Violation of the Fair Debt Collection Practices Act (including but not limited to Section 807-8)
+- Violation of the Fair Credit Reporting Act (including but not limited to Section 623-a-3)
+
+You will be required to appear in a court venue local to me, in order to formally defend yourself.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+P.S. If needed, I will also provide a copy of this letter to the organizations below.
+CC: Consumer Financial Protection Bureau
+CC: Attorney General's Office
+CC: Better Business Bureau

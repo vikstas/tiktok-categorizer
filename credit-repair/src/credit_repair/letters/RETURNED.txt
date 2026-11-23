@@ -1,0 +1,24 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Last 4 of SSN: {{ssn_last4}}
+
+To Whom It May Concern,
+
+There is currently an inaccurate item being reported on my credit report from {{company_name}}. I have contacted this company at the address listed on my credit report here: {{returned_address}}
+
+As you can see, I have enclosed a photocopy of my mail being returned from the post office due to an invalid address. Section 623(a)(1)(A) prohibits furnishing information to any CRA if the furnisher "knows or has reasonable cause to believe that the information is inaccurate." Given that the furnisher has provided false information to you about me, and provided you with a false address, I demand that the item they are reporting be removed immediately.
+
+{{your_name}}
+{{your_address}}
+
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau
+
+Enclosure: Photocopy of the returned envelope

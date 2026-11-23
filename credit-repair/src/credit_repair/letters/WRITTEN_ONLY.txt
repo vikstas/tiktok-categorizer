@@ -1,0 +1,15 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+Re: Acct # {{account_number}}
+
+To Whom It May Concern:
+
+I require that you communicate with me only in writing, and only at the address provided above. You may not contact me by phone at any time, for any reason.
+
+{{your_name}}

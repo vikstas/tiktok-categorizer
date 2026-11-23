@@ -1,0 +1,32 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Last 4 of SSN: {{ssn_last4}}
+
+To Whom It May Concern:
+
+I have recently been informed that there is negative information reported by {{furnisher_name}} in the file you maintain under my Social Security number. Upon reviewing a copy of my credit report, I see an entry listing {{derogatory_condition}} in {{month_year}}.
+
+I challenge the accuracy, compliance and reportability of this listing.
+
+Please validate this information with {{furnisher_name}} and provide me with copies of any documentation associated with this account. In the absence of any such documentation, I formally request that this information be immediately deleted from the credit file you maintain under my Social Security number.
+
+Please note that you have 30 days to complete this investigation, as per the Fair Credit Reporting Act Section 611(a)(1)(A), and I am keeping careful record of your actions, including your Method of Verification. I do not consent to e-oscar or any means of automated verification.
+
+Please respond to this dispute via USPS only. I do not consent to any electronic forms for receiving dispute results.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+P.S. If needed, I will also provide a copy of this letter to the organizations below:
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau

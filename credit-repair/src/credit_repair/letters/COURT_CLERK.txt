@@ -1,0 +1,26 @@
+{{your_name}}
+{{your_address}}
+
+Office of the Clerk of Court
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Procedure for verifying public records with the credit reporting agencies
+
+To the Clerk of the Court:
+
+I am writing to ask about your office's procedure for verifying records with the credit reporting agencies (Experian, Equifax and TransUnion).
+
+Specifically, please tell me in writing:
+1. Does your office furnish public record information (such as judgments, liens or bankruptcies) to Experian, Equifax, TransUnion or any other credit reporting agency?
+2. Does your office verify the accuracy of public records when a credit reporting agency contacts you about a consumer's dispute? If so, what is that procedure?
+
+I have enclosed a self-addressed stamped envelope for your reply. Thank you for your time.
+
+Sincerely,
+
+{{your_name}}
+
+Enclosure: Self-addressed stamped envelope

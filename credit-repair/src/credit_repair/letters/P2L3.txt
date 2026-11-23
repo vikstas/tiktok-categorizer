@@ -1,0 +1,34 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Last 4 of SSN: {{ssn_last4}}
+
+To Whom It May Concern:
+
+This letter is my final communication in regarding the inaccurate entry being reported under {{furnisher_name}}.
+
+I have repeatedly asked for evidence to support your reporting, but yet again, you have failed to provide me with a copy of any viable evidence submitted by {{furnisher_name}} substantiating their claims.
+
+Furthermore, I have requested your method of verification, and you have not complied, which is an additional violation of the Fair Credit Reporting Act 611(a)(7).
+
+The law stipulates that you must investigate within 30 days of receiving my letter and respond within 5 days of completing your investigation.
+
+Given that I believe you are acting in bad faith, and have not complied with the Fair Credit Reporting Act, I am giving you notice that I am considering not only filing complaints but also looking into legal actions.
+
+I am requesting your assistance in putting an end to this matter without complaints or legal action but I am willing to utilize my consumer protections/rights. Please respond via USPS with an updated credit report showing the deletion of the aforementioned account.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+P.S. If needed, I will also provide a copy of this letter to the organizations below:
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau

@@ -12,3 +12,8 @@ dist/
 .venv/
 venv/
 .pytest_cache/
+
+# Credit repair: case files hold your personal information - never commit them.
+credit-repair/my-case/
+credit-repair/*.zip
+credit-repair-case/

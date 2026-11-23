@@ -1,0 +1,32 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+ATTN: SUPERVISOR ONLY
+RE: Account Number #{{account_number}}
+
+To Whom It May Concern,
+
+In reviewing my credit report I noticed the above mentioned account fell within your EARLY EXCLUSION time frame. Therefore, please note that this letter is NOT a dispute of the above mentioned account.
+
+Please do NOT initiate a dispute of the account.
+
+1. {{account_name}} Account Number #{{account_number}}
+
+Please exclude it from my credit report early.
+
+Please review the above mentioned account and the attached reporting of the item which shows the date by which it is scheduled to be removed from my reports. Please note that the date falls within your range for early exclusion.
+
+I would like to formally request that {{account_name}} {{account_number}} be excluded from my report.
+
+Thank you for your time and help in this matter.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}

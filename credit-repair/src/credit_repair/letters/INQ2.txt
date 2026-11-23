@@ -1,0 +1,28 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Last 4 of SSN: {{ssn_last4}}
+
+To Whom It May Concern,
+
+While checking my most recent credit report, I noticed credit inquiries where the companies did not have a permissible purpose per the FCRA.
+
+Inquiries:
+{{inquiries}}
+
+Congress has limited the use of consumer reports to protect consumers' privacy. All users must have a permissible purpose under the FCRA Section 604 to obtain a consumer report.
+
+Section 604(f) prohibits any person from obtaining a consumer report from a consumer reporting agency (CRA) unless the person has certified to the CRA the permissible purpose(s) for which the report is being obtained and certifies that the report will not be used for any other purpose. Please provide me with this certified information.
+
+In the absence of any such documentation, I formally request that these inquiries be immediately deleted from the credit file that you maintain under my Social Security number. Please note that you have 30 days to complete this investigation, as per the Fair Credit Reporting Act.
+
+My contact information is as follows:
+
+{{your_name}}
+SSN Last 4: {{ssn_last4}}
+{{your_address}}

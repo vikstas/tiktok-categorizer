@@ -1,0 +1,30 @@
+{{date}}
+
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+Re: Acct # {{account_number}}
+
+To Whom It May Concern:
+
+This letter is regarding the above-mentioned account, which you claim {{derogatory_condition}}. This is a formal notice that your claim is disputed.
+
+Please note that I am requesting "validation"; that is competent evidence, showing that I have (or ever had) some contractual obligation to pay you. Please provide the record that reflects the process by which my "signature" was generated/executed.
+
+Any negative mark found on my credit reports (including Experian, Transunion and Equifax) from your company or any company that you represent, for a debt that I don't owe, is a violation of the FCRA/FDCPA; therefore if you cannot validate the debt, you must request that all credit reporting agencies delete the entry.
+
+Please Note: This notice is an attempt to correct your records, and any information received from you will be collected as evidence should any further action be necessary. This is a request for information only, and is not a statement, election, or waiver of status.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+P.S. If needed, I will also provide a copy of this letter to the organizations below:
+CC: Consumer Financial Protection Bureau
+CC: Attorney General's Office
+CC: Better Business Bureau

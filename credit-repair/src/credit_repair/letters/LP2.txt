@@ -1,0 +1,38 @@
+{{date}}
+
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+RE: Account # {{account_number}}
+
+To Whom It May Concern,
+
+This letter is a formal dispute and request to remove late payments from my credit report. The information is incorrect, untrue, and the laws pertaining to furnishers reporting late payments is quite clear. I have outlined it below:
+
+Section 623(a)(7) requires a "financial institution" that regularly reports negative information to nationwide CRAs to provide one clear and conspicuous written notice of that practice to consumers, no later than 30 days after first reporting such information."
+
+My research has found this notice is typically found on monthly statements, however:
+
+15 U.S. Code § 1681s-2 - Responsibilities of furnishers of information to consumer reporting agencies
+(7) Negative information
+(E) Use of notice without submitting negative information
+No provision of this paragraph shall be construed as requiring a financial institution that has provided a customer with a notice described in subparagraph (A) to furnish negative information about the customer to a consumer reporting agency.
+
+Additionally, FTC Advisory Opinion to Harris (03-22-99) states: "Section 623(a)(2) of the FCRA addresses the duty to correct and update information by "furnishers," or persons who furnish information to consumer reporting agencies ("CRA") such as credit bureaus." This opinion goes on to address the reporting of late payments stating "...this provision requires a furnisher to provide corrected or updated information to the consumer reporting agency that it had reported to originally... regardless of whether they (the late payments) were accurate at one point, because the section requires the furnisher both to "update" accounts as well as to "correct".
+
+As you can see the law and FTC opinion state that you, the furnisher, are NOT legally bound to report negative information. Please refrain from continuing to report the late payments on my credit reports. The account is current, and thus, you have a duty to correct and update the negative reporting of late payments.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau
+
+Enclosure (optional): FTC Advisory Opinion to Harris (03-22-99) - https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-harris-03-22-99

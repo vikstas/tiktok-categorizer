@@ -1,0 +1,36 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Account Number (if known): {{account_number}}
+
+Dear Sir or Madam,
+
+I am a victim of identity theft. The information listed below, which appears on my credit report, does not relate to any transaction(s) that I have made. It is the result of identity theft.
+
+{{identity_theft_items}}
+
+Please block this information from my credit report, pursuant to section 605B of the Fair Credit Reporting Act, and send the required notifications to all furnishers of this information.
+
+Enclosed are the following:
+- A copy of my credit report I received from your company. The fraudulent items are circled.
+- A copy of my Identity Theft Report and proof of my identity.
+- A copy of section 605B of the Fair Credit Reporting Act, which requires you to block the fraudulent information on my credit report resulting from identity theft within four business days and to promptly notify the furnisher(s) of that information.
+
+I appreciate your prompt attention to this matter, and await your reply.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+Enclosures:
+Identity Theft Report
+Proof of identity: {{proof_of_identity}}
+Copy of Credit Report
+FCRA Section 605B (print from https://www.consumer.ftc.gov/articles/pdf-0089-fcra-605b.pdf)

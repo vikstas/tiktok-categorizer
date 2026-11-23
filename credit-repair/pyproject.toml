@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "credit-secrets-agent"
+version = "0.1.0"
+description = "Case file, letters and deadlines for repairing your credit with the Credit Secrets method."
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = []
+
+[project.optional-dependencies]
+docx = ["python-docx>=1.1,<2"]
+dev = ["pytest>=8.0", "python-docx>=1.1,<2"]
+
+[project.scripts]
+credit-repair = "credit_repair.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+credit_repair = ["letters/*.txt"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

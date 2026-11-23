@@ -1,0 +1,44 @@
+{{your_name}}
+{{your_address}}
+
+{{collection_agency_block}}
+
+{{original_creditor_block}}
+
+{{car_dealer_block}}
+
+{{date}}
+
+RE: VIN # {{vin}}
+
+To Whom It May Concern,
+
+This letter serves as a formal dispute regarding the accounts associated with VIN # {{vin}}.
+
+The vehicle in question was purchased on or about {{purchase_date}}, financed by {{financed_by}}, repossessed in the state of {{repo_state}}, and sold by {{sold_by}} on or about {{sale_date}}.
+
+Under the laws of {{repo_state}}, the Uniform Commercial Code (UCC) § 9-506, as well as State Retail Installment Sales Act (RISA) and Motor Vehicle Installment Sales Act (MVISA) statutes, a deficiency cannot be claimed unless all required notices were properly and timely provided, and all allowable redemption and cure time limits were adhered to.
+
+I demand proof that the repossession of the vehicle complied with the following UCC provisions:
+- § 9-506. EFFECT OF ERRORS OR OMISSIONS.
+- § 9-611. NOTIFICATION BEFORE DISPOSITION OF COLLATERAL
+- § 9-612. TIMELINESS OF NOTIFICATION BEFORE DISPOSITION OF COLLATERAL.
+- § 9-613. CONTENTS AND FORM OF NOTIFICATION BEFORE DISPOSITION OF COLLATERAL
+
+Please provide me with copies of the legal notices and proof that the notification and resale of the vehicle were conducted in a commercially reasonable manner.
+
+If you do not provide this proof within 15 days of receipt of this certified letter, I will consider the alleged deficiency claim null and void. Continued collection activities or continued reporting of this disputed claim on my credit reports will be considered violations of the Fair Debt Collection Practices Act (FDCPA) and the Fair Credit Reporting Act (FCRA).
+
+Additionally, should you fail to comply with these requests, I reserve the right to seek damages against all parties involved, under applicable State and Federal statutes, including but not limited to UCC § 9-625 remedies.
+
+Furthermore, please be advised that all communications with me must be conducted via U.S. mail. No representatives from your company or its affiliates are permitted to contact me or my family members by any other means.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau

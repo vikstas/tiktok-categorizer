@@ -1,0 +1,36 @@
+{{date}}
+
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+Re: Acct # {{account_number}}
+
+To Whom It May Concern:
+
+This letter is in response to your recent claim regarding the above-mentioned account, which you claim {{derogatory_condition}}.
+
+I requested that you provide me with a copy of any viable evidence showing the account is being reported accurately.
+
+I am now requesting the method of verification procedure you used to determine the accuracy and completeness of the information you are furnishing on my credit report.
+
+As per FTC opinion letter from Attorney John F. LeFevre, you should be aware that a printout of a bill or itemized document does not constitute verification.
+
+I am again formally requesting a copy of any documents, showing that I have a legally binding contractual obligation to pay you the alleged amount. I am also requesting the record that reflects the process by which my "signature" was generated/executed.
+
+Be aware that I am making a final goodwill attempt to have you clear up this matter. The listed item is inaccurate and incomplete, and represents a very serious error in your reporting.
+
+I am maintaining a careful record of my communications with you for the purpose of filing a complaint with the Consumer Financial Protection Bureau and the Attorney General's office, should you continue in your non-compliance of federal laws under the Fair Debt Collection Practices Act, the Fair Credit Reporting Act, and the corresponding local state laws. I further remind you that you may be liable for your willful non-compliance.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+P.S. If needed, I will also provide a copy of this letter to the organizations below:
+CC: Consumer Financial Protection Bureau
+CC: Attorney General's Office
+CC: Better Business Bureau

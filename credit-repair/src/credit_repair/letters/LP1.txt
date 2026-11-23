@@ -1,0 +1,25 @@
+{{date}}
+
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+RE: Account # {{account_number}}
+
+To Whom It May Concern,
+
+This letter is regarding the above mentioned account which you are reporting late payment(s) on {{late_payment_dates}}. This is a formal notice that your claim is disputed. I am requesting validation, made pursuant to the Fair Credit Reporting Act, along with the corresponding local state laws. Please note that I am requesting "validation"; that is competent evidence showing that my payment(s) was late on the above-mentioned dates. Please also be aware that any negative mark found on my credit reports (including Experian, Transunion and Equifax) from your company or any company that you represent, for failing to correct inaccurate negative information, is a violation of the FCRA; therefore if you cannot validate the late payment(s), you must request that all credit reporting agencies delete the late payment entry. Pending the outcome of my investigation of any evidence that you submit, you are instructed to take no action that could be detrimental to any of my credit reports.
+
+Please Note: This notice is an attempt to correct your records, and any information received from you will be collected as evidence should any further action be necessary. This is a request for information only, and is not a statement, election, or waiver of status.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau

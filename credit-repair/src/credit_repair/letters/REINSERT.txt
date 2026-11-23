@@ -1,0 +1,29 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Last 4 of SSN {{ssn_last4}}
+
+To Whom It May Concern,
+
+On {{original_letter_date}} I disputed an account reported by {{furnisher_name}} in the file you maintain under my Social Security number. I was informed on {{deletion_date}} that the item was deleted from my credit report. Now I have discovered that the item has been reinserted on my credit report. In accordance with the requirements of the FCRA section 611(a)(5)(B)(ii), you are required to notify me of the reinsertion in writing within 5 business days.
+
+(B) Requirements relating to reinsertion of previously deleted material
+(ii) Notice to consumer
+If any information that has been deleted from a consumer's file pursuant to subparagraph (A) is reinserted in the file, the consumer reporting agency shall notify the consumer of the reinsertion in writing not later than 5 business days after the reinsertion or, if authorized by the consumer for that purpose, by any other means available to the agency.
+
+I received no such notification. This is a very serious violation of the FCRA, and I reserve the right to pursue legal action for your blatant disregard for the law. I hereby demand that you immediately delete the item from my credit report in order to avoid legal action. I am submitting this complaint separately to the Consumer Financial Protection Bureau, the Attorney General's Office, and the BBB.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau

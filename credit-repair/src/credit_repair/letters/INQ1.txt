@@ -1,0 +1,21 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+Re: No Permissible Purpose Credit Inquiry
+
+To Whom It May Concern,
+
+I recently received a copy of my credit report. The credit report showed a credit inquiry by your company on {{inquiry_date}} that I do not recall authorizing. I understand that you shouldn't be allowed to put an inquiry on my credit file unless you have a permissible purpose per FCRA Section 604. You have no permissible purpose so please have this inquiry removed from my credit file immediately.
+
+I have sent this letter certified mail because I need your prompt response to this issue. Please be so kind as to forward me documentation that you've had the unauthorized inquiry removed.
+
+If you find that I am remiss, and you do have my authorization to inquire into my credit report, then please send me proof of this along with your certification to the bureaus that certifies your permissible purpose. Otherwise, please note that I am reserving the right to take civil action if necessary.
+
+Thank You,
+
+{{your_name}}

@@ -1,0 +1,34 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Last 4 of SSN: {{ssn_last4}}
+
+To Whom It May Concern:
+
+This letter is in response to your recent claim that {{furnisher_name}} has verified that the account they are reporting under my name is accurate.
+
+Be advised that the description of the procedure used to determine the accuracy and completeness of the information is hereby requested, to be provided within fifteen (15) days of the completion of your re-investigation.
+
+Additionally, please provide the name, address, and telephone number of each person contacted regarding this alleged account. I am formally requesting a copy of any documents showing that I have a legally binding contractual obligation to pay them the exact amount claimed.
+
+Any automated or electronic response or e-oscar verification is unacceptable. I am requesting a reinvestigation AND your method of verification. I also request that the results be sent via USPS only.
+
+Be aware that I am making a final goodwill attempt to have you clear up this matter. The listed item is entirely inaccurate and incomplete, and represents a very serious error in your reporting.
+
+I am maintaining a careful record of my communications with you for the purpose of filing a complaint with the Consumer Financial Protection Bureau and the Attorney General's office, should you continue in your non-compliance. I further remind you that, as in Wenger v. Trans Union Corp., No. 95-6445 (C.D.Cal. Nov. 14, 1995), you may be liable for your willful non-compliance.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+P.S. If needed, I will also provide a copy of this letter to the organizations below:
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau

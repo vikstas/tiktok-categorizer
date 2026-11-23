@@ -1,0 +1,25 @@
+{{date}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+To Whom It May Concern:
+
+I am writing to update/correct my personal information on file with your company.
+
+Please update my address to: {{current_address}}
+Please update my name to: {{name_on_id}}
+My only social security number is: {{full_ssn}}
+My only and correct date of birth is: {{dob}}
+My only employer is: {{employer}}
+My only telephone number is: {{phone}}
+
+Please do not respond by email or any other electronic means. Please respond via USPS only.
+
+Please remove all the other addresses off my report, as they are not deliverable to me by the U.S. post office, and they are not reportable as per the FCRA, since they are inaccurate.
+
+Sincerely,
+
+{{your_name}}
+
+Enc. Driver License, SSN Card, and Proof of Residence

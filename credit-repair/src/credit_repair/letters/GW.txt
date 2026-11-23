@@ -1,0 +1,19 @@
+{{date}}
+
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+RE: Account # {{account_number}}
+
+To Whom It May Concern,
+
+I'm writing to you because I noticed that my most recent credit report contains a late payment reported on {{late_payment_dates}} for my {{company_name}} account. I want you to know that I understand, and have great respect for my financial obligations. Unfortunately, at the time of the incident mentioned above, I had {{circumstance}}. Aside from this unforeseen and unavoidable circumstance, you will see that I have an excellent payment record. In the near future, I am planning on applying for {{upcoming_purpose}}, and it has come to my attention that the missed payment on my credit reports could hurt my ability to qualify. In my heart, I know that the missed payment doesn't reflect my creditworthiness and commitment to repaying my debts. I am humbly asking for you to give me a second chance by making a goodwill adjustment to remove the late payment on {{late_payment_dates}} from my credit reports. As I understand it, you can do so in just a few minutes of your time. I would greatly appreciate it!
+
+Thank you for your consideration. Have a blessed day!
+
+Best,
+
+{{your_name}}

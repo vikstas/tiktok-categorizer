@@ -1,0 +1,20 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Last 4 of SSN {{ssn_last4}}
+
+To Whom It May Concern,
+
+I am writing to challenge the reporting and compliance on an account with {{company_name}} that is being reported on my credit report with incorrect/missing info. More specifically, I am referencing the fact that you are reporting {{incorrect_info}}. Your improper procedures are highly damaging to my credit score. Please immediately delete this item.
+
+{{your_name}}
+{{your_address}}
+
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau

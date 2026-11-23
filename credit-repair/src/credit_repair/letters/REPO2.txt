@@ -1,0 +1,27 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Last 4 of SSN {{ssn_last4}}
+
+Dear {{recipient_name}},
+
+I am writing to formally dispute the account listed on my credit report by {{company_name}} under account # {{account_number}}. I believe this account is being reported inaccurately and potentially illegally. I previously disputed this issue directly with {{company_name}} regarding their reporting practices, but I have not received a satisfactory resolution.
+
+I am now disputing this entry directly with you. In accordance with the Fair Credit Reporting Act (FCRA), if {{company_name}} verifies this account during your investigation, I request that you provide me with the method of verification, including the name of the person with firsthand knowledge of the account in question.
+
+I am keeping a detailed record of my communications with your company. If this erroneous item continues to be reported, I am prepared to file complaints with the Consumer Financial Protection Bureau and the Attorney General's office.
+
+Sincerely,
+
+{{your_name}}
+
+P.S. Please be aware that dependent upon your response, I may be detailing any potential issues with your company via an online public press release.
+
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau

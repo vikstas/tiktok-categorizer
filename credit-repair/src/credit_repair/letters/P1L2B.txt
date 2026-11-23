@@ -1,0 +1,36 @@
+{{date}}
+
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+Re: Acct # {{account_number}}
+
+To Whom It May Concern:
+
+This letter is in response to your recent claim regarding the above-mentioned account, which you claim {{derogatory_condition}}.
+
+By not replying in a timely manner to my initial letter on {{original_letter_date}}, you have not only violated federal and state laws, but you have also failed to provide me with a copy of any viable evidence showing the account is being reported accurately.
+
+Be aware that I am making a final goodwill attempt to have you clear up this matter. The listed item is entirely inaccurate and incomplete, and represents a very serious error in your reporting.
+
+My initial dispute was detailed and directly related to the account in question. A template response will not be an acceptable response now that I have informed you of your legal obligation to respond to my initial dispute that went unanswered.
+
+I am reminding you that I stated the following in my initial dispute:
+
+I am requesting "validation"; that is competent evidence showing that I have (or ever had) some contractual obligation to pay you.
+
+This erroneous entry is detrimental to my credit rating and has caused me severe financial and emotional distress. If you choose not to provide the above requested deletion or documentation, I may pursue enforcement of my rights.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+P.S. If needed, I will also provide a copy of this letter to the organizations below:
+CC: Consumer Financial Protection Bureau
+CC: Attorney General's Office
+CC: Better Business Bureau

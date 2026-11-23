@@ -1,0 +1,34 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Last 4 of SSN: {{ssn_last4}}
+
+To Whom It May Concern:
+
+This letter is a follow up to my original letter dated {{original_letter_date}}, and received by you on {{received_date}}, regarding an inaccuracy in your credit reporting, regarding the entry being reported under {{furnisher_name}}.
+
+By not replying in a timely manner to my initial letter on {{original_letter_date}} you have not only violated federal law, but you have also failed to provide me with a copy of any viable evidence showing the account is being reported accurately.
+
+Be aware that I am making a final goodwill attempt to have you clear up this matter. The listed item is entirely inaccurate and incomplete, and represents a very serious error in your reporting.
+
+I am maintaining a careful record of my communications with you for the purpose of filing a complaint with the Consumer Financial Protection Bureau and the Attorney General's office, should you continue in your non-compliance. I further remind you that, as in Wenger v. Trans Union Corp., No. 95-6445 (C.D.Cal. Nov. 14, 1995), you may be liable for your willful non-compliance.
+
+As you have now violated federal law, by not properly investigating within the required timeframe, and I have evidence of such, via certified mail receipts, you must now remove the item.
+
+Please respond via USPS, with a new credit report showing the aforementioned account deleted from my credit file. Anything less will result in complaints being filed and the possibility of utilizing my legal consumer protection rights.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
+
+P.S. If needed, I will also provide a copy of this letter to the organizations below:
+Cc: Consumer Financial Protection Bureau
+Cc: Attorney General's Office
+Cc: Better Business Bureau

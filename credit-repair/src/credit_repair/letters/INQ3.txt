@@ -1,0 +1,28 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Social Security Number: {{ssn_last4}} Last 4
+
+To Whom It May Concern,
+
+This letter is a follow up to my original letter dated {{original_letter_date}} regarding an inaccuracy in your credit reporting. Specifically as it relates to credit inquiries that the following companies did not have a permissible purpose per the FCRA Section 604(c)(1):
+
+Inquiries:
+{{inquiries}}
+
+Your response to my initial request was not sufficient.
+
+I have previously contacted the creditors in question, and they claim they have NO proof, and no written authorization documented to provide a permissible purpose for the inquiry showing on my credit report.
+
+I am once again reaching out to you to assist by providing me with the permissible purpose or proof that I applied for credit or initiated these inquiries from each company. If you or the company have NO proof or evidence with supporting documents, please have these deleted immediately.
+
+My contact information is as follows:
+
+{{your_name}}
+SSN Last 4: {{ssn_last4}}
+{{your_address}}

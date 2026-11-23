@@ -1,0 +1,19 @@
+{{your_name}}
+{{your_address}}
+
+{{recipient_name}}
+{{recipient_address}}
+
+{{date}}
+
+RE: Credit Repair Accusation
+
+To whom it may concern:
+
+Please be advised that I have received your computer generated letter stating that you believe that I have used a third party credit repair agency. This is a blatant stall tactic on your part to allow for an additional 30 days to comply with my original dispute. You were advised by me by way of certified mail that I questioned the accuracy of my credit reports. That request was written by me and mailed by me—not a third-party agency. It appears obvious to me that you are abusing your power under the FCRA to escape a complete investigation and waste my time and money. I also want to point out that there is no law that states a consumer cannot use a third party. The whole dispute process is so overwhelming that there are consumer laws/rights that allow the use of a third party on their behalf if the consumer so chooses. This is why your statement is so absurd. Please take notice that this letter is formal notice to you that I am requesting that you continue forward with my original investigation request and send the results to me, via USPS, within 15 days. I therefore refuse your "form letter," thus giving you only 15 days, not 30 more.
+
+My contact information is as follows:
+
+{{your_name}}
+{{your_address}}
+Last 4 of SSN: {{ssn_last4}}
